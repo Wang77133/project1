@@ -1,0 +1,1 @@
+import{a4 as e,e as o,q as s,G as t}from"./index-aee8b421.js";const r=o({}),a={class:""};function n(c,p,_,d,f,i){return s(),t("div",a,"forgetpassword页面")}const m=e(r,[["render",n]]);export{m as default};
